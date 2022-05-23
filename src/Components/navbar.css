@@ -1,0 +1,9 @@
+.navbar{
+    height: 10vh;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    color: #E74B16;
+    text-transform: uppercase;
+    padding-top: 16px;
+}
